@@ -1,5 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css?family=Barrio|VT323');
+
 header {
-  background-color: teal;
+  font-family: 'VT323', monospace;
   color: white;
 }
 
@@ -12,7 +15,7 @@ main{
 }
 
 footer {
-  background-color: teal;
+
   color: white;
 }
 
