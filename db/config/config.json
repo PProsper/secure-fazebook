@@ -5,5 +5,8 @@
     "database": "secure_fazbook_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "postgres://ymjdnnvmkvdepf:65774fa0198ec19a925395852857752c6b5c86c1345392927e6f78c607326e20@ec2-184-72-249-88.compute-1.amazonaws.com:5432/d7rangfsrp4auu"
   }
 }
